@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer specialized in Full-stack and Android development. I like crafting things, LEGO, computers, and softwares. ⚡
+I am a software engineer focusing on Full-stack and Android development. I love to craft things like LEGO, computers, and softwares. ⚡
 
 #### Projects on GitHub 🔭
 Here are a list of works by me published on GitHub.
