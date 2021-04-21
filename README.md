@@ -2,7 +2,7 @@
 
 I am a software engineer focusing on Full-stack and Android development. I love to craft things like LEGO, computers, and softwares. ⚡
 
-#### Projects on GitHub 🔭
+#### Projects on GitHub
 Here are a list of works by me published on GitHub.
 ##### Web Front-end
 1. [NPSAT Web](https://github.com/UCD-GW-Nitrate/npsat_web_frontend_v2). Tech stack used: React, Redux, Nextjs, jest, puppeteer, Ant Design, BizCharts.
@@ -11,10 +11,12 @@ Here are a list of works by me published on GitHub.
 4. [PUBG visualization](https://github.com/zsxing99/React-PUBG). Tech stack used: React, AWS.
 5. [NBA player stats](https://github.com/zsxing99/React-NBA): Tech stack used: React, AWS.
 
-##### Android
-1. [Sparkling](https://github.com/PROJECT-LMA/Front-end-Android) - front-end tech lead.
-2. [FOCUS](https://github.com/PROJECT-FOCUS/Front-end-android) - front-end tech lead.
-3. [Vizassist](https://github.com/zsxing99/Vizassist). Tech stack used: GCP, docker.
+##### Mobile
+1. [Sparkling](https://github.com/PROJECT-LMA/Front-end-Android) - front-end tech lead. Android.
+2. [FOCUS](https://github.com/PROJECT-FOCUS/Front-end-android) - front-end tech lead. Android.
+3. [Vizassist](https://github.com/zsxing99/Vizassist). Tech stack used: GCP, docker. Android.
+4. [Collimate swift](https://github.com/Collimate). Swift. IOS.
+5. [Collimate](https://github.com/Collimate). React-Native. IOS; Android.
 
 ##### Backend
 1. [NPSAT backend](https://github.com/UCD-GW-Nitrate/npsat_web_backend). Tech stack used: Django, Ansible.
