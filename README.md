@@ -3,7 +3,7 @@
 I am a software engineer focusing on Full-stack development. I love to craft things like LEGO, computers, and softwares. ⚡
 
 #### Projects on GitHub
-Here are a list of works by me published on GitHub.
+Here are a list of works by me published on GitHub when I was a student.
 ##### Web Front-end
 1. [NPSAT Web](https://github.com/UCD-GW-Nitrate/npsat_web_frontend_v2). Tech stack used: React, Redux, Nextjs, jest, puppeteer, Ant Design, BizCharts.
 2. [Jupiter2 front end](https://github.com/zsxing99/Jupiter2-front-end). Tech stack used: React, Ant Design, umijs.
